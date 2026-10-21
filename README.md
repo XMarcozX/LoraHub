@@ -1,6 +1,6 @@
 # LoraHub
 
-Version: 1.107V
+Version: 1.108V
 
 Прошивка хаба LoRa (Heltec WiFi LoRa 32 V3) с приёмом данных от датчиков по LoRa,
 передачей в Integro (HTTPS + WebSocket) и резервной отправкой на локальный HTTP-сервер.
